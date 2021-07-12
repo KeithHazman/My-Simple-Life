@@ -1,0 +1,32 @@
+<head>
+<title>About Myself</title>
+</head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#FFFFFF" background="rm27-ning-48-wood.jpg">
+
+<center>
+<img src="heading/me.gif" border="0" alt="About Myself">
+</center>
+<font size="+1">
+
+<p>
+<b>
+<font face="arial" color="red" size="+2">H</font>ello! This is my homepage, I suppose I should introduce myself. It can be difficult to introduce oneself since you are so familiar with yourself that you are unsure where to begin. Allow me to attempt to determine what kind of image you have of me based on my self-description. I hope my perception of myself and your perception of me are not too dissimilar. Let's get started.
+</b>
+</p><p>
+<b>
+<img src="image/4.gif" align="left">
+<font face="arial" color="blue" size="+2">I</font> am a person who sees the bright side of everything. There are numerous things I enjoy doing, seeing, and experiencing. I enjoy reading and writing; I enjoy thinking and dreaming; I enjoy talking and listening. I enjoy seeing the dawn in the morning and the moonlight at night; I enjoy feeling the music on my face and inhaling the scent of the sea breeze. When I can't sleep in the middle of the night, I like to stare at the clouds in the sky with a blank mind and undertake theories. I suffer insomnia, so I would most likely sleep late and, of course, wake up late; I prefer to be alone, but I also enjoy being surrounded by people. I enjoy country peace as well as city noise; I enjoy the lovely beach on Malaysia's east coast as well as the flat rice fields in the country side. Delicious cuisine and comfortable shoes are two of my favorite things, as are sports and action movies. I enjoy the land and environment, as well as people. I also enjoy laughing. </b>
+</p><p>
+<b>
+<img src="image/1.gif" align="right">
+<font face="arial" color="orange" size="+2">I</font> am always aspired to be a great footballer like Mokhtar Dahari, a Malaysian football icon, or Cristiano Ronaldo and Lionel Messi, who dominated the world with their monstrous football intelligence, technical and skills during their prime and golden age until now. Through their on-field performances, they have affected millions of people. I also aspired to be a great e-sports player, similar to -Miracle or Ana, who dominate the Dota 2 scene. Of course, I am still a long way from these people. I'm just a guy who has no idea where he'll wind up. My dream, on the other hand, is still alive.
+</b>
+</p></font><p><font size="+1">
+<b>
+<font face="arial" color="green" size="+2">T</font>his is a quick biographical sketch of myself. Take a peek if you're interested in learning more at my <a href="family.html">pictures</a>.  Keep your wits about you and don't set your expectations too high.
+</b>
+
+</font>
+
+</p></body>

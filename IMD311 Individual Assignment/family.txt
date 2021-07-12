@@ -1,0 +1,223 @@
+<head>
+<title>My Family</title>
+</head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#FFFFFF" background="background.jpg">
+
+<center>
+<img src="heading/family.gif" border="0" alt="My Family">
+</center>
+<font size="+1">
+
+<p>
+<font face="arial" color="red" size="+2">T</font>here are four people in our family: a father, a mother, and 
+two
+little girls.
+</p><p>
+<img src="image/2.gif" align="left">
+<font face="arial" color="orange" size="+2">T</font>he father’s name is Li Yang, the 
+two little girls' names are Rebecca and Erica,
+and of course, I am the mother.
+</p><p>
+<font face="arial" color="violet" size="+2">W</font>e started our family in Champaign, Illinois, a Midwest campus
+town in the US, with a great university in the flat cornfield.  We then moved to Hong Kong, the most exciting city in Asia.&nbsp; 
+We witnessed 1997, the year Hong Kong returned to China after 100 years of 
+governance by the British.&nbsp; We now live in Seattle, the most beautiful and 
+vibrant city in the United States.&nbsp; We all love Seattle!</p><p>
+<font face="arial" color="blue" size="+2">H</font>ere are some of our family pictures, enjoy! (click on the picture for a larger size)
+
+</p></font><p><font size="+1">
+<table width="100%">
+<tbody><tr>
+<td bgcolor="ffffee" width="21%" valign="top">
+<font size="+1" face="arial">Li Yang &amp; Xiaoping</font>
+</td>
+<td bgcolor="ffeeff" width="20%" valign="top">
+<font size="+1" face="arial">Rebecca</font>
+</td>
+<td bgcolor="ffeeff" width="17%" valign="top">
+<font face="Arial Black">Erica</font></td>
+<td bgcolor="ffeeff" width="16%" valign="top">
+<b><font face="Arial">Sisters</font></b></td>
+<td bgcolor="eeffff" width="23%" valign="top">
+<font size="+1" face="arial">Family</font>
+</td>
+</tr>
+
+<tr>
+<td valign="top"><pre><font face="arial">
+
+<img src="image/paw.gif"><a href="photo/li1.jpg">Sunshine on face</a>
+
+<img src="image/paw.gif"><a href="photo/li2.jpg">On the meadow</a>
+
+<img src="image/paw.gif"><a href="photo/li3.html">It's me</a>
+
+<img src="image/paw.gif"><a href="photo/li4.jpg">Snowy mountain</a></font></pre>
+<pre><font face="arial" size="+1"><img src="image/paw.gif"></font><font face="arial" size="2"><a href="http://faculty.washington.edu/xpchen/photo/Yang1.jpg">At Keywest</a></font></pre>
+<pre><font face="arial" size="+1"><img src="image/paw.gif"></font><font face="arial" size="2"><a href="http://faculty.washington.edu/xpchen/photo/Yang2.jpg">Relax </a>
+</font><font face="arial">
+
+
+
+<img src="image/paw.gif"><a href="photo/xp1.jpg">At HKUST</a>
+
+<img src="image/paw.gif"><a href="photo/xp2.html">At UIUC</a></font></pre>
+<pre><font face="arial" size="+1"><img src="image/paw.gif"></font><font face="arial" size="2"><a href="http://faculty.washington.edu/xpchen/photo/ONBENCH.jpg">At IU-Bloomington</a></font><font face="arial">
+
+<img src="image/paw.gif"><a href="photo/xp3.html">Hello, it's me</a>
+
+<img src="image/paw.gif"><a href="photo/xp4.jpg">Enjoy the afternoon alone</a>
+
+</font></pre></td>
+
+<td valign="top"><pre><font face="arial">
+
+<img src="image/paw.gif"><a href="photo/reb1.jpg">Rebecca's laugh </a></font></pre>
+<pre><font face="arial" size="+1"><img src="image/paw.gif"></font><font face="arial" size="2"><a href="photo/reb6.jpg">Look, I'm strong</a></font><font face="arial" size="+1">
+</font><font face="arial">
+<img src="image/paw.gif"><a href="photo/reb2.jpg">Portrait</a>
+
+<img src="image/paw.gif"><a href="photo/reb3.jpg">On the riverside</a>
+
+<img src="image/paw.gif"><a href="photo/reb5.jpg">I am a bird</a>
+
+<img src="image/paw.gif"><a href="photo/reb7.jpg">I am happy</a>
+
+<img src="image/paw.gif"><a href="photo/reb8.jpg">I caught a fish</a>
+
+<img src="image/paw.gif"><a href="photo/reb9.html">On the sidewalk</a>
+
+<img src="image/paw.gif"><a href="photo/reb10.html">Beautiful California</a>
+
+<img src="image/paw.gif"><a href="photo/reb11.jpg">I like ice-cream</a>
+
+<img src="image/paw.gif"><a href="photo/reb12.jpg">Great Ocean Road (Australia)</a>
+
+<img src="image/paw.gif"><a href="photo/reb13.jpg">Hey! I wanted to jump</a></font></pre>
+<pre><b><font face="arial" size="3">New!</font></b></pre>
+<pre><font face="arial" size="2"><img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Reb2.jpg">Rebecca (1)</a></font></pre>
+<pre><font face="arial" size="2"><img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Reb10.jpg">Rebecca (2)</a>
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Reb14.jpg">Rebecca (3)</a>
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Reb5.jpg">Rebecca (4)</a>
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Reb6.jpg">Rebecca (5)</a>
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/rebecca1.jpg">Rebecca (6)</a>
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Rebeccahome.jpg">Rebecca (7)</a>
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/RebeccaPlayV.jpg">Rebecca (8)</a>
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/RebeccaPlayV2.jpg">Rebecca (9)</a>
+</font><font face="arial" size="+1">
+
+</font><font face="arial">
+
+</font></pre></td>
+
+<td valign="top">&nbsp;<p><font face="arial" size="+1">
+
+<img src="image/paw.gif"></font><font face="arial" size="2"><a href="http://faculty.washington.edu/xpchen/photo/erica-boat.jpg">Erica 
+and puppy</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica-Whidbey.jpg">Erica 
+in Whidbey Island</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica1.jpg">Erica 
+(3)</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica2.jpg">Erica 
+(4)</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica3.jpg">Erica 
+(5)</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/erica3.jpg">Erica 
+(6)</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica4.jpg">Erica 
+(7)</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/erica4.jpg">Erica 
+(8)</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica6.jpg">Erica 
+(9)&nbsp; </a>
+
+</font>
+</p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica7.jpg">Erica 
+(10) </a>
+
+</font>
+</p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica8.jpg">Erica 
+(11)</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica9.jpg">Erica 
+(12)</a></font></p><p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/EricaNY2.jpg">Erica 
+in New York</a></font></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></td>
+
+<td valign="top">&nbsp;<p><font face="arial" size="+1">
+
+<img src="image/paw.gif"></font><a href="http://faculty.washington.edu/xpchen/photo/EricaB-day1.jpg">Erica's 
+Birthday </a></p>
+<p><font face="arial" size="+1">
+
+<img src="image/paw.gif"></font><a href="http://faculty.washington.edu/xpchen/photo/EricaB-day2.jpg">Whisper</a></p>
+<p><font face="arial" size="+1">
+
+<img src="image/paw.gif"></font><font face="arial" size="2"><a href="http://faculty.washington.edu/xpchen/photo/sisters.jpg">Merry 
+Christmas</a></font></p>
+<p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Sister1.jpg">In 
+Li Jiang</a></font></p>
+<p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/disney1.jpg">At 
+Disneyland</a></font></p>
+<p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/disney4.jpg">With 
+Minnie Mouse</a></font></p>
+<p><font face="arial" size="2">
+
+<img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/DSCN0005.jpg">After 
+Bath</a></font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></td>
+
+<td valign="top"><pre><font face="arial">
+
+<img src="image/paw.gif"><a href="photo/fam1.jpg">Walk on the beach</a>
+
+<img src="image/paw.gif"><a href="photo/fam2.jpg">Lazy afternoon</a>
+
+<img src="image/paw.gif"><a href="photo/fam3.jpg">Happy Together</a>
+
+<img src="image/paw.gif"><a href="photo/fam4.html">West Lake in Hangzhou</a>
+
+<img src="image/paw.gif"><a href="photo/fam5.jpg">Triumph</a>
+
+<img src="image/paw.gif"><a href="photo/fam6.jpg">Wet feet</a>
+
+<img src="image/paw.gif"><a href="photo/fam7.jpg">Death Valley adventure</a>
+
+<img src="image/paw.gif"><a href="photo/fam8.html">Love in autumn</a></font></pre>
+<pre>&nbsp;</pre>
+<pre><b><font face="arial" size="3">New!</font></b></pre>
+<pre><font face="arial" size="+1"><img src="image/paw.gif"></font><font face="arial" size="2"><a href="http://faculty.washington.edu/xpchen/photo/disney6.jpg">Merry Go Around</a></font></pre>
+<pre><font face="arial" size="2"><img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Family.jpg">At Epcot </a></font></pre>
+<pre><font face="arial" size="+1"><img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/R&amp;dad.jpg">Rebecca and Dad</a></font></pre>
+<pre><font face="arial" size="+1"><img src="image/paw.gif"><a href="http://faculty.washington.edu/xpchen/photo/Erica&amp;dad1.jpg">Erica and Dad</a></font><font face="arial">
+
+</font></pre></td>
+</tr>
+</tbody></table>
+
+</font>
+
+</p></body>
